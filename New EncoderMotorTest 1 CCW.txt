@@ -1,0 +1,94 @@
+Front Motor Test:
+Some Direction: 
+PWM: 30
+Time Taken: 395273
+Position Change: 2053
+Average Angular Velocity:1.99
+PWM: 40
+Time Taken: 265210
+Position Change: 2031
+Average Angular Velocity:2.94
+PWM: 50
+Time Taken: 213307
+Position Change: 2036
+Average Angular Velocity:3.66
+PWM: 60
+Time Taken: 181394
+Position Change: 2041
+Average Angular Velocity:4.31
+PWM: 70
+Time Taken: 160938
+Position Change: 2033
+Average Angular Velocity:4.84
+PWM: 80
+Time Taken: 145482
+Position Change: 2038
+Average Angular Velocity:5.37
+PWM: 90
+Time Taken: 133645
+Position Change: 2028
+Average Angular Velocity:5.82
+PWM: 100
+Time Taken: 125419
+Position Change: 2024
+Average Angular Velocity:6.19
+PWM: 110
+Time Taken: 118636
+Position Change: 2016
+Average Angular Velocity:6.52
+PWM: 120
+Time Taken: 112091
+Position Change: 2011
+Average Angular Velocity:6.88
+PWM: 130
+Time Taken: 107705
+Position Change: 2028
+Average Angular Velocity:7.22
+PWM: 140
+Time Taken: 103344
+Position Change: 2026
+Average Angular Velocity:7.52
+PWM: 150
+Time Taken: 99265
+Position Change: 2027
+Average Angular Velocity:7.83
+PWM: 160
+Time Taken: 95905
+Position Change: 2005
+Average Angular Velocity:8.02
+PWM: 170
+Time Taken: 92370
+Position Change: 1988
+Average Angular Velocity:8.25
+PWM: 180
+Time Taken: 90154
+Position Change: 1962
+Average Angular Velocity:8.34
+PWM: 190
+Time Taken: 89385
+Position Change: 1954
+Average Angular Velocity:8.38
+PWM: 200
+Time Taken: 86862
+Position Change: 2002
+Average Angular Velocity:8.84
+PWM: 210
+Time Taken: 85838
+Position Change: 2027
+Average Angular Velocity:9.05
+PWM: 220
+Time Taken: 83627
+Position Change: 2035
+Average Angular Velocity:9.33
+PWM: 230
+Time Taken: 82917
+Position Change: 2048
+Average Angular Velocity:9.47
+PWM: 240
+Time Taken: 81250
+Position Change: 2050
+Average Angular Velocity:9.67
+PWM: 250
+Time Taken: 79718
+Position Change: 2054
+Average Angular Velocity:9.88
